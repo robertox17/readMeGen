@@ -1,6 +1,8 @@
 ![github license](https://img.shields.io/badge/license-None-blue.svg)
   # readME generator 
-  https://github.com/robertox17/readME generator 
+  https://github.com/robertox17/readME generator
+  ## Video Link 
+  https://drive.google.com/file/d/1EHwTfL4Fko72oJmKGQJP5kA6k4X9jC9m/view 
   ## Description
   this app generates a read me generator as simple as it gets. All that is need is to answer a few questions about your project and BOOM your read me is done. This is very helpfull because it creates read me for you nice and simple.
   
@@ -16,8 +18,9 @@
   The comands needed to install dependecies are undefined
   
   ## Usage
-  
-  In order to use this app you need to, 
+  deploy link to website:  https://github.com/robertox17/readMeGen  
+ <img width="1352" alt="readMEscrn" src="https://user-images.githubusercontent.com/108193561/189251524-2038a977-91dd-4fb2-9489-d1437e256f36.png">
+
   
   ## License 
   
